@@ -35,8 +35,7 @@ Thayanne da Silva Ramires
 ## Base de Dados
 
 Breast Cancer Coimbra Dataset – UCI Machine Learning Repository.
-Disponível em:
-https://archive.ics.uci.edu/dataset/451/breast+cancer+coimbra
+Disponível em: https://archive.ics.uci.edu/dataset/451/breast+cancer+coimbra
 
 ## Execução
 
