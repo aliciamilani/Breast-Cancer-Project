@@ -18,7 +18,9 @@ Machine Learning como ferramenta de apoio à decisão clínica.
 
 Avaliar o impacto da seleção de variáveis (features) no desempenho dos modelos;
 
-Comparar algoritmos em dois cenários distintos de validação;
+Comparar o desempenho dos modelos antes e depois da seleção de features, bem como contrastar dois protocolos de avaliação:
+- Experimento A: Validação cruzada estratificada 10-fold aplicada em todo o dataset.
+- Experimento B: Divisão 80/20 (train/test) com GridSearchCV aplicado apenas ao treino.
 
 Identificar os modelos com maior capacidade de generalização em dados biomédicos.
 
