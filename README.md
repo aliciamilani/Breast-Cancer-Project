@@ -8,7 +8,7 @@ O objetivo é avaliar o desempenho de algoritmos de aprendizado de máquina na i
 
 O câncer de mama é uma das principais causas de mortalidade entre mulheres;
 
-Estimativa de ~74 mil novos casos no Brasil entre 2023 e 2025;
+Estimativa de 74 mil novos casos no Brasil entre 2023 e 2025;
 
 O diagnóstico precoce é decisivo para o sucesso do tratamento;
 
@@ -32,6 +32,6 @@ Thayanne da Silva Ramires
 
 ## Base de Dados
 
-Breast Cancer Coimbra Dataset – UCI Machine Learning Repository
+Breast Cancer Coimbra Dataset – UCI Machine Learning Repository.
 Disponível em:
 https://archive.ics.uci.edu/dataset/451/breast+cancer+coimbra
