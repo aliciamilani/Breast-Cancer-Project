@@ -37,3 +37,21 @@ Thayanne da Silva Ramires
 Breast Cancer Coimbra Dataset – UCI Machine Learning Repository.
 Disponível em:
 https://archive.ics.uci.edu/dataset/451/breast+cancer+coimbra
+
+## Execução
+
+1. preprocess.ipynb
+Carrega dataset
+Aplica limpeza
+Calcula variância/desvio-padrão
+Executa feature selection
+Exporta arquivos processados
+
+2. train.ipynb
+Roda o Experimento A (10-fold)
+Roda o Experimento B (train/test + GridSearchCV)
+Salva métricas e modelos
+
+3. graphics.ipynb
+Gera gráficos comparativos
+Cria figuras usadas no artigo/relatório
