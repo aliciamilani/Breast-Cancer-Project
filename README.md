@@ -4,7 +4,7 @@ Projeto desenvolvido no módulo Machine Learning Aplicado II da Pós-Graduação
 
 O objetivo é avaliar o desempenho de algoritmos de aprendizado de máquina na identificação do câncer de mama, com foco no impacto da seleção de features e da estratégia de validação.
 
-# Contexto
+## Contexto
 
 O câncer de mama é uma das principais causas de mortalidade entre mulheres;
 
@@ -14,7 +14,7 @@ O diagnóstico precoce é decisivo para o sucesso do tratamento;
 
 Machine Learning como ferramenta de apoio à decisão clínica.
 
-# Objetivos
+## Objetivos
 
 Avaliar o impacto da seleção de variáveis (features) no desempenho dos modelos;
 
@@ -22,7 +22,7 @@ Comparar algoritmos em dois cenários distintos de validação;
 
 Identificar os modelos com maior capacidade de generalização em dados biomédicos.
 
-# Equipe
+## Equipe
 
 Anna Alicia Milani
 
@@ -30,7 +30,7 @@ Cleidiana Manoel Alves
 
 Thayanne da Silva Ramires
 
-# Base de Dados
+## Base de Dados
 
 Breast Cancer Coimbra Dataset – UCI Machine Learning Repository
 Disponível em:
